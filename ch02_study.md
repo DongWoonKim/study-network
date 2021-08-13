@@ -4,7 +4,7 @@
 
 > 대부분 구름 모양의 클라우드 아이콘을 사용한다.
 
-<img src="/Users/dongwoonkim/Documents/study-network/imgs/cloud.png" alt="cloud" style="zoom:15%;" />
+<img src="https://ifh.cc/g/CKJQLq.png" alt="router" style="zoom:15%;" />
 
 ### 기본적인 네트워크 기기
 
@@ -22,7 +22,7 @@ __데이터 전송처리 단계__
 
 | 라우터                                                       | 레이어2 스위치                                               | 레이어3 스위치                                               |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="/Users/dongwoonkim/Documents/study-network/imgs/router.png" alt="router" style="zoom:15%;" /> | <img src="/Users/dongwoonkim/Documents/study-network/imgs/l2-switch.png" alt="l2-switch" style="zoom:30%;" /> | <img src="/Users/dongwoonkim/Documents/study-network/imgs/l3-switch.png" alt="l3-switch" style="zoom:30%;" /> |
+| <img src="https://ifh.cc/g/pDnhEL.jpg" alt="router" style="zoom:15%;" /> | <img src="https://ifh.cc/g/aWJ1Or.png" alt="router" style="zoom:35%;" /> | <img src="https://ifh.cc/g/pEOu5I.png" alt="l3-switch" style="zoom:30%;" /> |
 
 스위치란? : https://ngg3319.tistory.com/102
 
