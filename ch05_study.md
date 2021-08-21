@@ -155,7 +155,90 @@
 
 
 
+### 일반적으로 사용되는 인터페이스와 케이블은?
 
+##### 자주 사용하는 이더넷 규격
+
+> 이더넷에는 다앙한 규격이 있고, 규격마다 사용할 수 있는 인터페이스와 케이블이 다르다. 
+>
+> 다양한 이더넷 규격 중에서 가장 널리 이용되는 규격으로는 '10BASE-T', '100BASE-T', '1000BASE-T', '10GBASE-T'를 들 수 있다. 
+>
+> 이 규겨들 모두 <strong>RJ-45 이더넷 인터페이스</strong>와 <strong>UTP케이블</strong>을 채용하고 있다.
+
+<table border>
+  <thead>
+    <tr>
+      <th>카테고리</th>
+      <th>최대 주파수</th>
+      <th>주요 용도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td >카테고리1</td>
+      <td style="text-align:center;"> - </td>
+      <td >음성 통신</td>
+    </tr>  
+    <tr>
+      <td >카테고리2</td>
+      <td style="text-align:center;"> 1MHz </td>
+      <td >저속 데이터 통신</td>
+    </tr>  
+    <tr>
+      <td >카테고리3</td>
+      <td style="text-align:center;"> 16MHz </td>
+      <td >
+        <p><span style="display:inline-block; text-align:left;">10BASE-T</span> <span style="display:inline-block; text-align:right;">토큰링</span></p>
+        <p>100BASE-T2/T4</p>
+      </td>
+    </tr>  
+    <tr>
+      <td >카테고리4</td>
+      <td style="text-align:center;"> 20MHz </td>
+      <td >
+        <p><span style="display:inline-block; text-align:left;">카테고리3까지의 용도</span> <span style="display:inline-block; text-align:right;">ATM(25Mbps)</span></p>
+        <p>토큰링(16Mbps)</p>
+      </td>
+    </tr>  
+    <tr>
+      <td >카테고리5</td>
+      <td style="text-align:center;"> 100MHz </td>
+      <td>
+        <p><span style="display:inline-block; text-align:left;">카테고리4까지의 용도</span> <span style="display:inline-block; text-align:right;">ATM(156Mbps)</span></p>
+        <p><span style="display:inline-block; text-align:left;">100BASE-TX</span> <span style="display:inline-block; text-align:right;">CDDI</span></p>        
+      </td>
+    </tr>  
+    <tr>
+      <td >카테고리5e</td>
+      <td style="text-align:center;"> 100MHz </td>
+      <td >
+        <p>카테고리5까지의 용도</p>
+        <p>1000BASE-T</p>
+      </td>
+    </tr>  
+    <tr>
+      <td >카테고리6</td>
+      <td style="text-align:center;"> 250MHz </td>
+      <td >
+        <p><span style="display:inline-block; text-align:left;">카테고리5e까지의 용도</span> <span style="display:inline-block; text-align:right;">ATM(1.2Gps)</span></p>
+        <p>ATM(622Mbps)</p>
+      </td>
+    </tr>  
+    <tr>
+      <td >카테고리6A</td>
+      <td style="text-align:center;"> 500MHz </td>
+      <td >10BASE-T</td>
+    </tr>  
+  </tbody>
+</table>
+
+##### UTP 케이블
+
+> 흔히 말하는 LAN 케이블이 UTP 케이블이다.
+
+##### RJ-45 이더넷 인터페이스
+
+> RJ-45는 UTP 케이블용 인터페이스로서 UTP 케이블에 맞춰 8개의 단자가 있고, 전기신호(전류)가 흐르는 회로를 최대 4쌍 형성할 수 있다.
 
 
 
